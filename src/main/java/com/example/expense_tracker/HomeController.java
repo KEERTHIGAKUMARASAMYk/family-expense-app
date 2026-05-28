@@ -10,6 +10,6 @@ public class HomeController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello, welcome to the Expense Tracker API!";
+        return "Hello, welcome to the Expense Tracker APP!";
     }
 }
